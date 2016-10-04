@@ -1,6 +1,14 @@
 # Tensorflow_tutorial1
 
-The download.py borrowed from [here](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/udacity/1_notmnist.ipynb)
-You can see the code what's going on
+This repository for practicing neural network with MNIST using tensorflow.
 
+## Prerequisites
+- Python 2.7 or 3.3+
+- [tqdm](https://github.com/tqdm/tqdm) (optional)
+
+## Usage
+
+(before the run, you may complete the code)
+To run:
+    $ python main.py
 
