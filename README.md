@@ -9,6 +9,7 @@ This repository for practicing neural network with MNIST using tensorflow.
 ## Usage
 
 (before the run, you may complete the code)
+
 To run:
     $ python main.py
 
