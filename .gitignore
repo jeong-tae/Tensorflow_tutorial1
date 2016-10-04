@@ -1,0 +1,5 @@
+# data
+MNIST_data
+checkpoints
+*.pyc
+*.swp
